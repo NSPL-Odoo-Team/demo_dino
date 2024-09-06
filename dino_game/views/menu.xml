@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="action_dino_url" model="ir.actions.act_url">
+          <field name="name">Dino</field>
+          <field name="target">self</field>
+          <field name="url">/dino</field>
+      </record>
+
+    <menuitem parent="menu_dino_root" id="menu_dino_url" action="action_dino_url"/>
+</odoo>
+
