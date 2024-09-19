@@ -3,6 +3,9 @@
     'version': '17.0.1.0.0',
     'category': 'Game',
     'summary': 'Chrome-like Dino Game built with Odoo OWL',
+    'author': "Namah Softech Pvt Ltd",
+    'maintainer': 'Namah Softech Pvt Ltd',
+    'website': "https://namahsoftech.com/",
     'depends': [
         'web',
                 ],
